@@ -1,3 +1,5 @@
+#version 3.7;
+
 //  Persistence of Vision Raytracer V3.5
 //  World definition file.
 //
@@ -33,9 +35,7 @@ global_settings {
   adc_bailout 0.003922
   ambient_light <1.0,1.0,1.0>
   assumed_gamma 1.9
-  hf_gray_16 off
   irid_wavelength <0.247059,0.176471,0.137255>
-  max_intersections 64
   max_trace_level 25
   number_of_waves 10
   noise_generator 2

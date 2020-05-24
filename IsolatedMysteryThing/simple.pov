@@ -9,10 +9,7 @@ global_settings {
   adc_bailout 0.003922
   ambient_light <1.0,1.0,1.0>
   assumed_gamma 1.9
-  hf_gray_16 off
   irid_wavelength <0.247059,0.176471,0.137255>
-  max_intersections 64 
-  max_intersections 16
 /*  max_trace_level 25 */
   max_trace_level 8
   number_of_waves 10
